@@ -3,11 +3,11 @@ function happyHolidays() {
   return "Happy holidays!"
 }
 function happyHolidaysTo(name) {
-  return 
+  return
 }
 function happyHolidayTo(holiday, name) {
-  return 
+  return
 }
 function holidayCountdown(days, holiday) {
-  return 
+  return
 }
